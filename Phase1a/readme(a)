@@ -1,0 +1,3 @@
+Get the twitter text from my twitter account
+Test:put a "test" words on my twitter
+Result:get "test" words back from my twitter
